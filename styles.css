@@ -1,0 +1,31 @@
+.title {
+  max-width: 300px;
+  margin: 30px auto;
+  background-color: dodgerblue;
+  border-radius: 8px;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.post {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+  padding: 10px;
+  border-radius: 10px;
+  max-width: 350px;
+}
+
+img {
+
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+.desc {
+
+    display: flex;
+
+
+}
